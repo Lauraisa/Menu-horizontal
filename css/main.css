@@ -31,13 +31,13 @@ li {
   display: block;
 
  }
-/*seudocodigo */
-/* Usando hover para dar efecto,al pasar encima de un elemento con el mouse */
+/*seudoclase */
+/* Usando hover para dar efecto. Al pasar por encima de un elemento con el mouse */
 a:Hover {
   background: rgb(249, 148, 15); /* anaranjado*/
   color: rgb(6, 6, 6); /* negro*/
   }
-  /*seudocodigo va siempre con dos puntos*/
+  /*seudoclase va siempre con dos puntos*/
   /* Usando Active para dar efecto, al pulsar el mouse en un elemento*/
 a:active {
    background:  rgb(1, 6, 8); /* negro*/
